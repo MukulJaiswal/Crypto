@@ -23,5 +23,5 @@ public class CompliantNode implements Node {
 
     public void receiveFromFollowees(Set<Candidate> candidates) {
         // IMPLEMENT THIS
-    }
+   }
 }
